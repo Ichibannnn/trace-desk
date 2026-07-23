@@ -32,3 +32,33 @@ Extension:
 - npm run dev
 - cleanup -> page.tsx
 - global.css
+
+@import "tailwindcss";
+
+:root {
+--background: #ffffff;
+--foreground: #171717;
+}
+
+@theme inline {
+--color-background: var(--background);
+--color-foreground: var(--foreground);
+--font-sans: var(--font-geist-sans);
+--font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+:root {
+--foreground: 255, 255, 255;
+}
+}
+
+body {
+color: var(--foreground);
+font-family: Arial, Helvetica, sans-serif;
+}
+
+<!-- Building the Navbar -->
+
+- app/Navbar.tsx
+- import to layout.tsx
