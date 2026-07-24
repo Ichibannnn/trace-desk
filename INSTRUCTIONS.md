@@ -79,3 +79,9 @@ font-family: Arial, Helvetica, sans-serif;
 -create model Issue
 -npx prisma format
 -npx prisma migrate dev
+
+<!-- Building an API -->
+
+-app/apiFolder/issues/route.ts
+-zod
+-prisma client
