@@ -62,3 +62,20 @@ font-family: Arial, Helvetica, sans-serif;
 
 - app/Navbar.tsx
 - import to layout.tsx
+- links array
+- nav, links, map links,
+- usePathname, react-icons
+- styling, npm i classnames@2.3.2
+
+<!-- Intalling MySql -->
+
+-https://dev.mysql.com/downloads
+-workbench or data grip
+
+<!-- Setting Up Prisma -->
+
+-npm i prisma@5.3.1
+-npx prisma init
+-create model Issue
+-npx prisma format
+-npx prisma migrate dev
