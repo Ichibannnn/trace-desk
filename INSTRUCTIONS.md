@@ -113,3 +113,12 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 -import './theme-config.css'
+-check if the font-family was changed to "Inter"
+
+<!-- Adding a Markdown Editor -->
+
+-install npm install --save react-simplemde-editor easymde
+
+<!-- Clear .next cache -->
+
+$ cd "D:/ICHIBAN/Systems/trace-desk" && rm -rf .next && echo "Cleared .next cache"
