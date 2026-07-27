@@ -119,6 +119,13 @@ font-family: Arial, Helvetica, sans-serif;
 
 -install npm install --save react-simplemde-editor easymde
 
+<!-- Handling Form Submission -->
+
+-npm install react-hook-form
+-npm i axios
+
 <!-- Clear .next cache -->
 
 $ cd "D:/ICHIBAN/Systems/trace-desk" && rm -rf .next && echo "Cleared .next cache"
+
+--
