@@ -91,3 +91,7 @@ font-family: Arial, Helvetica, sans-serif;
 -npm install @radix-ui/themes
 -import "@radix-ui/themes/styles.css"; (layout.tsx)
 -Theme
+
+<!-- Setup New Issue Page -->
+
+-issues/new/page.tsx
