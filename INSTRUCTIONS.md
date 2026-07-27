@@ -124,6 +124,10 @@ font-family: Arial, Helvetica, sans-serif;
 -npm install react-hook-form
 -npm i axios
 
+<!-- Implement Client-side validation -->
+
+-Refactore schema/new file
+
 <!-- Clear .next cache -->
 
 $ cd "D:/ICHIBAN/Systems/trace-desk" && rm -rf .next && echo "Cleared .next cache"
