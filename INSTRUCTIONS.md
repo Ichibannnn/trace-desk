@@ -85,3 +85,9 @@ font-family: Arial, Helvetica, sans-serif;
 -app/apiFolder/issues/route.ts
 -zod
 -prisma client
+
+<!-- Setting Up Radix UI -->
+
+-npm install @radix-ui/themes
+-import "@radix-ui/themes/styles.css"; (layout.tsx)
+-Theme
