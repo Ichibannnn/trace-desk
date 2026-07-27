@@ -95,3 +95,21 @@ font-family: Arial, Helvetica, sans-serif;
 <!-- Setup New Issue Page -->
 
 -issues/new/page.tsx
+-Theme proveider to layout.tsx
+
+<!-- Customizing Radix UI Theme -->
+
+-ThemePanel
+-Check theme setup
+-Config font
+-Theme/Typography search next
+
+- inter/classname config
+- add app/theme-config.css
+- paste custom css to radix ui
+
+.radix-themes {
+--default-font-family: var(--font-inter);
+}
+
+-import './theme-config.css'
