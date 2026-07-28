@@ -127,6 +127,11 @@ font-family: Arial, Helvetica, sans-serif;
 <!-- Implement Client-side validation -->
 
 -Refactore schema/new file
+-npm i @hookform/resolvers
+
+<!-- Extracting Error Handler (Reusable) -->
+
+-ErrorMessage.tsx
 
 <!-- Clear .next cache -->
 
