@@ -133,6 +133,12 @@ font-family: Arial, Helvetica, sans-serif;
 
 -ErrorMessage.tsx
 
+<!-- Adding a spinner -->
+
+-https://tw-elements.com/docs/standard/components/spinners/
+
+<!-- Discussion: Code Organization -->
+
 <!-- Clear .next cache -->
 
 $ cd "D:/ICHIBAN/Systems/trace-desk" && rm -rf .next && echo "Cleared .next cache"
